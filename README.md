@@ -16,9 +16,9 @@ Puede tomar el sol un número determinado de horas. Por cada hora al sol, su agu
 También puede fertilizarse: su altura sube 3 cm y su agua baja 5 puntos.
 También debe haber un método llamado mostrarEstado() que imprima por pantalla el nombre, agua, altura y salud de la planta.
 
-Ampliación
-Crea una clase llamada Jardinero. Un jardinero puede regar una planta una cantidad determinada de litros y puede fertilizarla.
-Crea una clase Propietario que sea el dueño de una única Planta. Un propietario solo puede podar su planta, y no otra, cinco centímetros de cada vez o un número distinto de cm cada vez que se riegue (para practicar sobrecarga).
+> Ampliación
+> Crea una clase llamada Jardinero. Un jardinero puede regar una planta una cantidad determinada de litros y puede fertilizarla.
+> Crea una clase Propietario que sea el dueño de una única Planta. Un propietario solo puede podar su planta, y no otra, cinco centímetros de cada vez o un número distinto de cm cada vez que se riegue (para practicar > sobrecarga).
 
 - Crea una clase modele una MascotaVirtual. Una mascotaVirtual debe tener nombre y niveles de hambre, felicidad y energía.
 Cada mascota puede tener un nombre distinto, pero todas empiezan teniendo 50 puntos de hambre, 50 de felicidad y 100 de energía.
@@ -26,6 +26,6 @@ Una mascota puede comer, en cuyo caso su nivel de hambre baja 5 puntos y su ener
 También puede dormir un número determinado de horas, recargando 2 puntos de energía por cada hora dormida. Su hambre sube 1 punto cada hora que duerme.
 También debe haber un método llamado mostrarEstado() que imprima por pantalla el nombre, hambre, felicidad y energía de la mascota.
 
-Ampliación
-Crea una clase llamada Cuidador. Un cuidador puede alimentar a una mascota.
-Crea una clase Propietario que sea el dueño de una única Mascota. Solo el propietario puede jugar con la mascota.
+> Ampliación
+> Crea una clase llamada Cuidador. Un cuidador puede alimentar a una mascota.
+> Crea una clase Propietario que sea el dueño de una única Mascota. Solo el propietario puede jugar con la mascota.
